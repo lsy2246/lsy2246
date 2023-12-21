@@ -14,7 +14,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <h3>🔍 Where to find me</h3>
-<p><a href="https://lsy22.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/lsy2246" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a <a href="https://your-gitee-repo-url" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-%23FF0000.svg?&style=for-the-badge&logo=Gitee&logoColor=white" /></a>
+<p><a href="https://lsy22.com" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a 
+<a href="mailto:lsy200546@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%230078D4.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>   href="https://github.com/lsy2246" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a <a href="https://your-gitee-repo-url" target="_blank"><img alt="Gitee" src="https://img.shields.io/badge/Gitee-%23FF0000.svg?&style=for-the-badge&logo=Gitee&logoColor=white" /></a>
 </p>
 </em></p>
 
