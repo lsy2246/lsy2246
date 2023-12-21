@@ -24,7 +24,7 @@
   <a href="https://github.com/lsy2246" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://your-gitee-repo-url" target="_blank">
+  <a href="https://gitee.com/lsy22" target="_blank">
     <img alt="Gitee" src="https://img.shields.io/badge/Gitee-%23FF0000.svg?&style=for-the-badge&logo=Gitee&logoColor=white" />
   </a>
 </p>
