@@ -6,12 +6,6 @@
   <a href="https://www.learn-c.org/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
   </a>
-  <a href="https://www.markdownguide.org/" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
-  </a>
-  <a href="https://linuxjourney.com/" target="_blank">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
   <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank">
     <img alt="Assembly" src="https://img.shields.io/badge/Assembly-%23707070.svg?&style=for-the-badge&logo=assemblyscript&logoColor=white" />
   </a>
