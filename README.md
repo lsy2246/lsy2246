@@ -45,6 +45,9 @@
   <a href="https://www.jetbrains.com/clion/" target="_blank">
     <img alt="CLion" src="https://img.shields.io/badge/CLion-%23000000.svg?&style=for-the-badge&logo=clion&logoColor=white" />
   </a>
+  <a href="https://www.markdownguide.org/" target="_blank">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  </a>
 </p>
 
 <h3>🔍 Where to find me</h3>
