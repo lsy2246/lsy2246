@@ -1,3 +1,1 @@
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=lsy2246&theme=xcode" />
-</div>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lsy2246&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
