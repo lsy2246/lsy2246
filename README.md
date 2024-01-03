@@ -4,9 +4,7 @@
 
 <h3>📚 Learning Topics</h3>
 <p>
-  <a href="https://www.learn-c.org/" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  </a>
+
   <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank">
     <img alt="Assembly" src="https://img.shields.io/badge/Assembly-%23707070.svg?&style=for-the-badge&logo=assemblyscript&logoColor=white" />
   </a>
@@ -42,6 +40,9 @@
   </a>
   <a href="https://www.markdownguide.org/" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  </a>
+    <a href="https://www.learn-c.org/" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
   </a>
 </p>
 
