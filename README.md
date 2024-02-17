@@ -44,6 +44,9 @@
     <a href="https://www.learn-c.org/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
   </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  </a>
 </p>
 
 <h3>🔍 Where to find me</h3>
