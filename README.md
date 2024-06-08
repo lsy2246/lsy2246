@@ -19,34 +19,14 @@
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
-  </a>
-  <a href="https://gcc.gnu.org/" target="_blank">
-    <img alt="GCC" src="https://img.shields.io/badge/GCC-%23FFA500.svg?&style=for-the-badge&logo=gcc&logoColor=white" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />
-  </a>
   <a href="https://www.linux.org/" target="_blank">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D4.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  </a>
-  <a href="https://www.android.com/" target="_blank">
-    <img alt="Android" src="https://img.shields.io/badge/Android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://www.jetbrains.com/clion/" target="_blank">
-    <img alt="CLion" src="https://img.shields.io/badge/CLion-%23000000.svg?&style=for-the-badge&logo=clion&logoColor=white" />
-  </a>
   <a href="https://www.markdownguide.org/" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
   </a>
     <a href="https://www.learn-c.org/" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img alt="Bash" src="https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  </a>
+
 </p>
 
 <h3>🔍 Where to find me</h3>
