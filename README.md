@@ -5,12 +5,11 @@
 <h3>📚 Learning Topics</h3>
 <p>
 
-  <a href="https://www.tutorialspoint.com/assembly_programming/index.htm" target="_blank">
-    <img alt="Assembly" src="https://img.shields.io/badge/Assembly-%23707070.svg?&style=for-the-badge&logo=assemblyscript&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/computer-organization-and-architecture/" target="_blank">
-    <img alt="Computer Organization" src="https://img.shields.io/badge/Computer_Organization-%23000000.svg?&style=for-the-badge&logo=computer&logoColor=white" />
-  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+</a>
+
+
 </p>
 <h3>🛠️ Tools and Languages</h3>
 <p>
